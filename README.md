@@ -1,1 +1,1 @@
-# Slot-Machine-Simulator
+A Python-based slot machine simulator where players deposit money, place bets, and spin to win based on matching symbols. The game features dynamic betting, real-time balance updates, and customizable symbol values for an engaging console experience. Perfect for learning basic game logic and user interaction in Python.
